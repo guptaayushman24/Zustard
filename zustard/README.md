@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-## Command for the install Zustand
+## Command to install the Zustand
 npm install zustand
